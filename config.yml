@@ -1,0 +1,4 @@
+x-rapidapi-host : sentiment-analysis24.p.rapidapi.com
+x-rapidapi-key : 7264**********************
+content-type : application/json
+url : https://sentiment-analysis24.p.rapidapi.com/v1/sentiment
