@@ -23,11 +23,11 @@ This project use Python and [Anaconda](https://www.anaconda.com/products/individ
 
 Use your terminal and copy and paste the following steps:
 
-```sh
-conda create --name sentiment-analysis python=3.9
-conda activate sentiment-analysis
-conda install pyyaml
-conda install requests
+```bash
+$ conda create --name sentiment-analysis python=3.9
+$ conda activate sentiment-analysis
+$ conda install pyyaml
+$ conda install requests
 ```
 
 ### Download the example project from the repository
@@ -50,8 +50,8 @@ url : https://sentiment-analysis24.p.rapidapi.com/v1/sentiment
 
 ### Run the main.py. 
 
-```sh
-python main.py
+```bash
+$ python main.py
 
 ```
 
